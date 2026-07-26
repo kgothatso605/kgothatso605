@@ -27,7 +27,7 @@ I build machine learning models that find needles in haystacks — from rare par
 
 - Lead author and co-author on peer-reviewed SAIP conference proceedings (2024, 2025, and 2026)
 
-### 🎓 Education
+###  Education
 
 - **MSc Physics** — University of the Witwatersrand *(2025–2026)*
 - **BSc Hons Physics (Distinction)** — Wits, ~82% avg, Barnato Academic Excellence Award *(2024)*
