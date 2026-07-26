@@ -2,7 +2,7 @@
 
 **Machine Learning & Data Science Researcher | MSc Physics Candidate**
 
-I build machine learning models that find needles in haystacks — from rare particle signals at CERN to fraud patterns in financial data.
+I build machine learning models that find needles in haystacks from rare particle signals at CERN to fraud patterns in financial data.
 
 ---
 
