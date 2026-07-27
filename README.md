@@ -1,8 +1,8 @@
-## Hello Great minds and innovators,I'm Kgothatso Ntumbe
+## Hello Great minds and innovators, I am Kgothatso Ntumbe
 
 **Machine Learning & Data Science Researcher | MSc Physics Candidate**
 
-I build machine learning models that find needles in haystacks from rare particle signals at CERN to fraud patterns in financial data.
+I build machine learning models that find needles in haystacks, from rare particle signals at CERN to fraud patterns in financial data.
 
 ---
 
